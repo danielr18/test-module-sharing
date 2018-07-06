@@ -1,0 +1,18 @@
+{
+  "name": "babel-test-modulea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/@babel/cli/bin/babel.js ./src --out-dir ./dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.0.0-beta.52",
+    "@babel/core": "^7.0.0-beta.52",
+    "@babel/plugin-proposal-decorators": "^7.0.0-beta.52",
+    "@babel/preset-env": "^7.0.0-beta.52"
+  }
+}
