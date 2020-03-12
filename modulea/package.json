@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/cli": "^7.0.0-beta.52",
+    "@babel/cli": "^7.7.0",
     "@babel/core": "^7.0.0-beta.52",
     "@babel/plugin-proposal-decorators": "^7.0.0-beta.52",
     "@babel/preset-env": "^7.0.0-beta.52"
